@@ -245,3 +245,15 @@ If you find a bug or the bot fails to work as described:
   - Your `config.json` with the token removed
 
 If it is a real issue in the bot code, it should be reported and will be fixed.
+
+
+## ☕ Buy Me a Coffee
+
+I build this project for fun and share it for free.  
+If it helped you and you’d like to say thanks, you can buy me a coffee 🙂
+
+Crypto tips, never expected):
+
+BTC: `bc1q2yu6k43zxx8ztvtcfuly7e7fjcsj37gmpve9nf`  
+ETH: `0xF1a48631EF980526c27cbc289633062Dac7845Fb`  
+LTC: `LTt69M4MUdZutpjjC1zyhuUniWcFV18Eno`
