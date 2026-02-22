@@ -1,0 +1,8 @@
+{
+  "currency": "USD",
+  "items": {
+    "product1": 29.99,
+    "product2": 49.99,
+    "product3": 79.99
+  }
+}

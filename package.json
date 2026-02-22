@@ -1,0 +1,15 @@
+{
+  "name": "lifetime-license-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.0"
+  }
+}

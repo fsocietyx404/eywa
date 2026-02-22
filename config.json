@@ -1,0 +1,12 @@
+{
+  "ownerId": "YOUR_DISCORD_USER_ID",
+  "prefix": ".",
+  "maintenance": false,
+  "supportRoleId": "YOUR_SUPPORT_ROLE_ID",
+  "token": "YOUR_TOKEN",
+  "channelProducts": {
+    "CHANNEL_ID_1": "product1.json",
+    "CHANNEL_ID_2": "product2.json",
+    "CHANNEL_ID_3": "product3.json"
+  }
+}
